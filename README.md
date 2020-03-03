@@ -61,6 +61,7 @@ public class ElasticSearchUtils {
 
 ## 捐赠
 该项目如有帮助可以支付宝请作者喝咖啡
+
 ![khu-alipay](https://s2.ax1x.com/2020/03/04/35JBK1.png)
 
 
