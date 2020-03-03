@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.khu.data.es.starter.ElasticSearchAutoConfiguration
