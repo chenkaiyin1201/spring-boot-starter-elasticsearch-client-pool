@@ -9,7 +9,8 @@ import org.elasticsearch.client.RequestOptions;
 import org.elasticsearch.client.RestHighLevelClient;
 
 /**
- * @Auther: 百里
+ * 客户端类
+ * @Auther: KaiYin Chen
  * @Date: 2020/3/3
  * @Description:
  */

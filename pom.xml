@@ -8,7 +8,7 @@
         <version>2.2.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.khu.data</groupId>
+    <groupId>com.github.chenkaiyin1201</groupId>
     <artifactId>spring-boot-starter-elasticsearch-client-pool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>es-starter</name>

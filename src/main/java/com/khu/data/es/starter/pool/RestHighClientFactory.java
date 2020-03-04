@@ -13,7 +13,9 @@ import org.elasticsearch.client.RestClientBuilder;
 import org.elasticsearch.client.RestHighLevelClient;
 
 /**
- * Created by baili on 2019-05-31 17:54.
+ * @Auther: KaiYin Chen
+ * @Date: 2020/3/3
+ * @Description:
  */
 @Slf4j
 @AllArgsConstructor

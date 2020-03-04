@@ -4,7 +4,8 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @Auther: 百里
+ * 对象池的配置类
+ * @Auther: KaiYin Chen
  * @Date: 2020/3/3
  * @Description:
  */
