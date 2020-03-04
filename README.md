@@ -20,8 +20,9 @@ restHighLevelClient
 </dependency>
 ```
 2. application.properties添加配置
+
 |属性名|作用|属性值|默认值|
-|-|-|-|-|
+|---|---|---|---|
 |elasticsearch.cluster-name|客户端名称||elasticsearch|
 |elasticsearch.cluster-host|客户端地址||127.0.0.1|
 |elasticsearch.cluster-port|客户端端口||9200|
